@@ -1,5 +1,8 @@
 package com.org.demo.demo.Model;
 
 public class Test {
+  public static void main(String args[]){
+        System.out.println("Hello");
+  }
 
-}
+  }
